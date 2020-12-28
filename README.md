@@ -1,53 +1,47 @@
-### Hi there 👋
+### Hi there, I'm Deepak 👋
 
-<p align="center">
-<img src = 'https://github.com/Sanketwable/Sanketwable/blob/master/gif/gif.gif' width = 400px>
-</p>
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
+## Front End Developer!!
 
-# I am 🇮🇳 ***DEEPAK***
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play guitar / drums
 
-- 🔭 I’m currently working on <a href="https://github.com/Sanketwable/AutomatePI " class="btn-hire" style="text-align: center; color:rgb(94, 255, 0);"><b>AutomatePI</b></a> and also as a Backend Developer Intern <a href="https://www.advangelists.com" class="btn-hire" style="text-align: center; color:rgb(94, 255, 0);"><b>@Advangelists</b></a>
-- 💬 Ask me about ReactJS, API's,HTML,CSS ....
+### Spotify Playing 🎧
 
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-## ![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=Sanketwable&count_private=true&show_icons=true&theme=onedark)
-
-<!-- ## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanketwable&layout=compact) -->
-
-## Github Language Profile 
-
-<a href="https://ionicabizau.github.io/github-profile-languages/api.html?sanketwable">
-<img src = 'https://github.com/Sanketwable/Sanketwable/blob/master/images/GLP.png' width = 450px>
-</a>
+### Connect with me:
 
 
-####  📫 How to reach me 
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<a href="https://www.codechef.com/users/sanket_wable">
-<img src = 'https://github.com/Sanketwable/Sanketwable/blob/master/images/codechef.png' width = 40px>
-</a>                
+<br />
 
-<a href="http://codeforces.com/profile/WableSanket">
-<img src = 'https://github.com/Sanketwable/Sanketwable/blob/master/images/codeforces.png' width = 40px>
-</a>
+### Languages and Tools:
 
-<a href="https://www.linkedin.com/in/wablesanket/">
-<img src = 'https://github.com/Sanketwable/Sanketwable/blob/master/images/linkedin.png' width = 40px>
-</a>
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-<a href="https://www.facebook.com/sanketwable12/">
-<img src = 'https://github.com/Sanketwable/Sanketwable/blob/master/images/fb.png' width = 40px>
-</a>
+<br />
+<br />
 
-<a href="https://www.instagram.com/wable_sanket_/">
-<img src = 'https://github.com/Sanketwable/Sanketwable/blob/master/images/insta.png' width = 40px>
-</a>
+---
 
-##### Visit my [Portfolio](https://github.com/Sanketwable/Portfolio)
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-Download My
-<a href="https://drive.google.com/file/d/1VrLaGjdzfjqXM1qpdwqv7Es3quWsmMIm/view?usp=sharing" class="btn-hire" style="text-align: center; color:rgb(94, 255, 0);"><b>Resume</b></a>
-
-😀
+</details>
