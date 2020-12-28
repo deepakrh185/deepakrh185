@@ -2,7 +2,7 @@
 
 ## Front End Developer!!
 
-- 👩‍💻 Currently Doing Projects for Learning Purpose!
+- 💻 Currently doing projects for learning purpose!
 - 👯 I’m looking to collaborate with other.
 - 🥅 Looking forward to work with great peoples.
 - ⚡ Love to learn new technologies and skills every day.
