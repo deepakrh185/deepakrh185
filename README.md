@@ -2,7 +2,7 @@
 
 ## Front End Developer!!
 
-- 💻 Currently doing projects for myself!
+- 💻 Currently doing projects for myself.
 - 👯 I’m looking to collaborate with other.
 - 🥅 Looking forward to work with great peoples.
 - ⚡ Love to learn new technologies and skills every day.
