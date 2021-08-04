@@ -32,5 +32,5 @@
 
 
 [instagram]: https://www.instagram.com/deepakrh.dev/
-[linkedin]: https://www.linkedin.com/in/deepak-r-h-639b461b6//
+[linkedin]: https://www.linkedin.com/in/deepak-r-h-639b461b6/
 
